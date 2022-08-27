@@ -1,0 +1,41 @@
+/* styles.css */
+.breakfast,
+.lunch,
+.dinner {
+    font-size: 40px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.breakfast {
+    background-color: rgb(234, 223, 193);
+}
+
+.lunch {
+    background-color: #e1c0da;
+}
+
+.dinner {
+    background-color: hsl(174, 49%, 76%);
+}
+
+.pic {
+    width: 200px;
+    height: auto;
+}
+
+h2 {
+    background-color: aquamarine;
+}
+
+ul li {
+    color: blue;
+}
+
+ol li{
+    color: blueviolet;
+}
+
+.url-links {
+    background-color: darkorange;
+    font-size: 20px;
+}
